@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StringCalculatorTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2021-01-24T22:57:43" hostname="pop-os" time="0.12">
+  <properties/>
+  <testcase name="add_customDelimiter()" classname="StringCalculatorTest" time="0.092"/>
+  <testcase name="add_IgnoreNumbersLargerThan1000()" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="add_oneNumber()" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="add_twoNumbers()" classname="StringCalculatorTest" time="0.002"/>
+  <testcase name="add_noInputs()" classname="StringCalculatorTest" time="0.002"/>
+  <testcase name="add_throwExceptionForNegative()" classname="StringCalculatorTest" time="0.002"/>
+  <testcase name="add_multipleDifferentDelimiters()" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="add_newLineAfterFirstComma()" classname="StringCalculatorTest" time="0.002"/>
+  <testcase name="add_newLineAfterFirstNumber()" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="add_multipleDifferentDelimitersOfDifferentLengths()" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="add_newLineBetweenEachNumberAndComma()" classname="StringCalculatorTest" time="0.002"/>
+  <testcase name="add_multiCharacterDelimiter()" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="add_threeNumbers()" classname="StringCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
